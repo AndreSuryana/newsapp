@@ -1,0 +1,31 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">News App</string>
+
+    <!-- Bottom Navigation Menu -->
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_bookmark">Bookmark</string>
+
+    <!-- Heading -->
+    <string name="heading_top_headlines">Top Headlines</string>
+    <string name="heading_explore">Explore</string>
+
+    <!-- Button -->
+    <string name="btn_see_all">See all</string>
+    <string name="btn_retry">Retry</string>
+
+    <!-- Placeholder -->
+    <string name="search_placeholder">Search...</string>
+    <string name="loading_placeholder">Loading...</string>
+
+    <!-- Message -->
+    <string name="message_article_bookmarked">Article has been added to your bookmark list</string>
+    <string name="message_article_bookmark_removed">Article has been removed from your bookmark list</string>
+
+    <!-- Others -->
+    <string name="bullet_point">•</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="empty_bookmarks">Bookmark list still empty</string>
+
+</resources>
